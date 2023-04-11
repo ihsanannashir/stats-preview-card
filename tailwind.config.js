@@ -14,6 +14,10 @@ module.exports = {
         'white-second': 'hsla(0, 0%, 100%, 0.75)',
         'white-third': 'hsla(0, 0%, 100%, 0.6)',
       },
+      fontFamily: {
+        'inter': ['Inter', 'sans-serif'],
+        'lexend': ['Lexend Deca', 'sans-serif'],
+      },
     },
   },
   plugins: [],
